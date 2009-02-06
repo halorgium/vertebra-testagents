@@ -1,0 +1,9 @@
+jid: vertebra-client@localhost/agent
+password: testing
+debug: true
+jabber_debug: true
+log_path: tmp/client.log
+pid_path: tmp/client.pid
+herault_jid: herault@localhost/herault
+use_drb: true
+drb_port: 10392

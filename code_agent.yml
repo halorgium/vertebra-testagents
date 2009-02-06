@@ -1,0 +1,10 @@
+jid: code@localhost/agent
+password: testing
+debug: true
+jabber_debug: true
+log_path: tmp/code.log
+pid_path: tmp/code.pid
+actor_path: actors
+herault_jid: herault@localhost/herault
+actors:
+ - code/actor

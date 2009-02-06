@@ -1,0 +1,10 @@
+jid: github@localhost/agent
+password: testing
+debug: true
+jabber_debug: true
+log_path: tmp/github.log
+pid_path: tmp/github.pid
+actor_path: actors
+herault_jid: herault@localhost/herault
+actors:
+ - github/actor
